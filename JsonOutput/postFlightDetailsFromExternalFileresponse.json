@@ -1,0 +1,18 @@
+{
+    "id": "334",
+    "firstname": "dino",
+    "lastname": "buck ng",
+    "age": "17",
+    "email": [
+        "mandeepsheoran@gmail.com",
+        "mandeepsheoran@yahoo.com"
+    ],
+    "favfood": {
+        "Breakfast": [
+            "English",
+            "Mexican"
+        ],
+        "Lunch": "Rice",
+        "Dinner": "Salad"
+    }
+}
