@@ -48,7 +48,7 @@ public class ADTHomeScreen extends BasePage {
 
     
     /** Xpath for homePageCarnivalImage */
-    @FindBy(xpath = "//a[@class='sub-nav-brand-logo']//img[@alt='ADT Security Systems']")
+    @FindBy(xpath = "(//img[@alt='ADT LOGO'])[1]")
     private WebElement adtLogo;
 	
 		
